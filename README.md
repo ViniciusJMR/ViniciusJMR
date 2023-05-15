@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-## Mais sobre mim
+## About me
 ```kotlin
 object ViniciusJMR {
  val name = "Vinícius de Jesus Mendes Rodrigues"
@@ -10,6 +10,12 @@ object ViniciusJMR {
  val sql = listOf("PostgreSQL", "MySQL", "MongoDB", "SQLite")
 }
 ```
+
+## **Languages and Tools**  
+
+[![My Skills](https://skillicons.dev/icons?i=linux,java,kotlin,spring,py,django,docker,mysql,postgres,mongodb,androidstudio,idea,vscode)](https://skillicons.dev)
+
+
 <!--
 **ViniciusJMR/ViniciusJMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
