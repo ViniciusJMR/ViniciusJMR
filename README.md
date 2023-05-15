@@ -1,6 +1,6 @@
-### Hello there 👋
-
-## About me
+### Hello there 👋 from BRASIL(YES, WITH A "S") 🇧🇷🇧🇷🇧🇷
+                        
+## **About me**
 ```kotlin
 object ViniciusJMR {
  val name = "Vinícius de Jesus Mendes Rodrigues"
@@ -11,7 +11,7 @@ object ViniciusJMR {
 }
 ```
 
-## **Languages and Tools**  
+## **Languages and Toolsets**  
 
 [![My Skills](https://skillicons.dev/icons?i=linux,java,kotlin,spring,py,django,docker,mysql,postgres,mongodb,androidstudio,idea,vscode)](https://skillicons.dev)
 
