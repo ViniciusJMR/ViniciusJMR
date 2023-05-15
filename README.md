@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
+## Mais sobre mim
+```kotlin
+object ViniciusJMR {
+ val name = "Vinícius de Jesus Mendes Rodrigues"
+ val acknowledgements = listOf("Backend", "Native Android")
+ 
+ val languages = listOf("Java", "Python", "Kotlin")
+ val sql = listOf("PostgreSQL", "MySQL", "MongoDB", "SQLite")
+}
+```
 <!--
 **ViniciusJMR/ViniciusJMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
