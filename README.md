@@ -1,8 +1,9 @@
 ### Hello there 👋 from BRASIL(YES, WITH A "S") 🇧🇷🇧🇷🇧🇷  
 
 I'm a code explorer, venturing into the unknown and embracing the challenges that come with it.
-                        
+- - -                    
 ## **About me**
+
 ```kotlin
 object ViniciusJMR {
  val name = "Vinícius de Jesus Mendes Rodrigues"
@@ -12,13 +13,13 @@ object ViniciusJMR {
  val sql = listOf("PostgreSQL", "MySQL", "MongoDB", "SQLite")
 }
 ```  
+- - - 
 
-  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniciusJMR&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ViniciusJMR/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViniciusJMR&layout=compact&theme=tokyonight#gh-dark-mode-only)](https://github.com/ViniciusJMR/github-readme-stats)
 
-
+- - -
 ## **Languages and Toolsets**  
-
+  
 [![My Skills](https://skillicons.dev/icons?i=linux,java,kotlin,spring,py,django,docker,mysql,postgres,mongodb,androidstudio,idea,vscode)](https://skillicons.dev)
 
 
