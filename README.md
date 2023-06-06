@@ -9,7 +9,7 @@ object ViniciusJMR {
  val name = "Vinícius de Jesus Mendes Rodrigues"
  val acknowledgements = listOf("Backend", "Native Android")
  
- val langs = listOf("Java", "Python", "Kotlin")
+ val primaryLangs = listOf("Java", "Python", "Kotlin")
  val secondaryLangs = listOf("Javascript", "Typescript")
  val sql = listOf("PostgreSQL", "MySQL", "MongoDB", "SQLite")
 }
