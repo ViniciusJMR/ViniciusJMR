@@ -9,7 +9,8 @@ object ViniciusJMR {
  val name = "Vinícius de Jesus Mendes Rodrigues"
  val acknowledgements = listOf("Backend", "Native Android")
  
- val languages = listOf("Java", "Python", "Kotlin")
+ val langs = listOf("Java", "Python", "Kotlin")
+ val secondaryLangs = listOf("Javascript", "Typescript")
  val sql = listOf("PostgreSQL", "MySQL", "MongoDB", "SQLite")
 }
 ```  
@@ -20,7 +21,7 @@ object ViniciusJMR {
 - - -
 ## **Languages and Toolsets**  
   
-[![My Skills](https://skillicons.dev/icons?i=linux,java,kotlin,spring,py,django,docker,mysql,postgres,mongodb,androidstudio,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,java,kotlin,spring,py,django,js,ts,react,docker,mysql,postgres,mongodb,androidstudio,idea,vscode)](https://skillicons.dev)
 
 
 <!--
